@@ -1,20 +1,5 @@
 {
   "users": [
-    {
-      "id": 1,
-      "username": "admin",
-      "password": "Admin@123"
-    },
-    {
-      "email": "phuvietdn@gmail.com",
-      "password": "$2a$10$CC32D1Q8ctAhrsbi6HjT1eoaPntT4c9gfiMDwkv1hiGzpZQzHdJ2e",
-      "id": 2
-    },
-    {
-      "email": "abc@gmail.com",
-      "password": "$2a$10$euatysmSG1n5W3ua7VrGXO9op01yj/JIPd/.97wuxMKMOehZxImCu",
-      "id": 3
-    }
   ],
   "notes": [
     {
