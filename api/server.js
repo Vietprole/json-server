@@ -5,13 +5,14 @@ const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000;
 
+server.db = router.db
+
 server.use(middlewares);
 
 const rules = jsonServerAuth.rewriter({
   // Permission rules
   users: 600,
-  products: 644,
-  carts: 600,
+  notes: 600,
 });
 
 server.use(rules);
