@@ -1,5 +1,10 @@
 {
   "users": [
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$nU87A68Ft4tmhI4agW1xie/1ZEtBQI4q.Iie4y8XLkTbZ3mimY8sa",
+      "id": 1
+    }
   ],
   "notes": [
     {
